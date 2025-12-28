@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WorldContextScanner",
+	"Description": "Scans blueprints for faulty world context pins",
+	"Category": "Other",
+	"CreatedBy": "Ten Trillion Triangles LLC",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WorldContextScanner",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

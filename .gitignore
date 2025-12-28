@@ -1,0 +1,19 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Build/
+*.tmp
+*.log
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.sdf
+*.opensdf
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
